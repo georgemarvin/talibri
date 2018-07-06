@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Local Timestamps
+// @name         Talibri Local Timestamps
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description
